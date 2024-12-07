@@ -1,2 +1,2 @@
 # JavascriptProject1
-Author : Abhi Chavhan
+Author : Abhishek Chavhan
